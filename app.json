@@ -6,8 +6,8 @@
         "MDisk",
         "shortner"
     ],
-    "website": "https://github.com/Shashwat-Shukla/mdisk-ultra-bot",
-    "repository": "https://github.com/Shashwat-Shukla/mdisk-ultra-bot",
+    "website": "https://github.com/infotechIT/mdisk-ultra-bot",
+    "repository": "https://github.com/infotechIT/mdisk-ultra-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
@@ -19,7 +19,7 @@
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "ca991bfa07a6ac45e6d5f374c84ab05c"
+            "value": "a8fdf57b0fc761de1c509a2cde85cfac"
         },
         "CUSTOM_FOOTER": {
             "description": "Enter your Custom Footer",
@@ -27,7 +27,7 @@
         },
         "MDISK_TOKEN": {
             "description": "Put your MDisk API key here",
-            "value": "j219piqFPsQBhba52F4l"
+            "value": "qE5XiwuSglHK8rIeYXPb"
         }
     },
     "addons": [],
